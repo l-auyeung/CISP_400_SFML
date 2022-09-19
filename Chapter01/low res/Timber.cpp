@@ -16,7 +16,7 @@ int main()
 	// RenderWindow window(vm, "Timber!!!", Style::Fullscreen);
 
 	// Low res code
-	RenderWindow window(vm, "Timber!!!");
+	RenderWindow window(vm, "Timber!!!!!");
 	View view(sf::FloatRect(0, 0, 1920, 1080));
 	window.setView(view);
 	//End of low res code!! Everything else is the same!!
